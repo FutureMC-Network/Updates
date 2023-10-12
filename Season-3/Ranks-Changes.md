@@ -3,4 +3,7 @@
 - **Payed Ranks(Vip, Vip+, Mvp, Mvp+, Premium)**
 - **New Rank(Content Creator)**
 - **New Rank(Booster)**
-- **New custom Ranks for Tops (Killer, Richest, Fastest)** 
+- **Changing Perms**
+
+
+<u>**we will mark it as, after completing adding it**<u>

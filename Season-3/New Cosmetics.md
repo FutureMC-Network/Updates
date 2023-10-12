@@ -5,6 +5,7 @@
 - **New Capes**
 - **New Particles**
 - **New Cages**
+- **New Prefixs (Killer, Richest, Fastest, etc)**
 
 
 <u>**we will mark it as, after completing adding it**<u>
