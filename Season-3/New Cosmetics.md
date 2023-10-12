@@ -4,6 +4,7 @@
 - **New Pets**
 - **New Capes**
 - **New Particles**
+- **New Cages**
 
 
 <u>**we will mark it as, after completing adding it**<u>
