@@ -6,6 +6,7 @@
 - **New Settings Options(Disable/Enable Scoreboard, Change Lang, Receiving chat messages, Friend Requests)**
 - **New Social System (Friends, Partys)**
 - **New interaction items (Lobby Item)**
+- **The ability to spectate any kind of running games & Arenas etc.**
 
 
 <u>**we will mark it as done, after completing adding it**<u>
