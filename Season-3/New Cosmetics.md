@@ -1,5 +1,6 @@
 # New Cosmetics in the coming season 
 - **Kill Particles**
+- **Custom Kill messages**
 - **Win Effects**
 - **New Pets**
 - **New Capes**
