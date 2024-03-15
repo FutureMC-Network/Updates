@@ -7,6 +7,7 @@
 - **New Social System (Friends, Partys)**
 - **New interaction items (Lobby Item)**
 - **The ability to spectate any kind of running games & Arenas etc.**
+- **Tags System (staffbreak) etc.**
 
 
 <u>**we will mark it as done, after completing adding it**<u>
